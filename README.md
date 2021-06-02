@@ -1,12 +1,6 @@
 ### Hi, I'm Anastasia 👋
 
-I'm a full stack engineer from Russia who loves programming.
-
-I got my start doing a lot of coding with Java.
-
-Currently, I'm working with JavaScript and SQL. 
-
-Also working with Electron and React Native on the front-end.
+I'm a full stack engineer who loves programming. I started my path in tech doing a lot of coding with Java. Currently, I'm working with JavaScript. 
 
 <!--
 **AnastasiaKolendo/AnastasiaKolendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
